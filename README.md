@@ -1,5 +1,19 @@
 <hr>
-<a href="/REFAL.html">Интерпретатор базисного РЕФАЛа</a><p>
+<a href="/REFAL.html">Интерпретатор базисного РЕФАЛа</a>
+
+Использовалось описание реализации:
+
+Анд.В.Климов, Арк.В.Климов, А.Г.Красовский, С.А.Романенко, Е.В.Травкина,
+В.Ф.Турчин, В.Ф.Хорошевский, И.Б.Щенков.<br>
+<a href="http://pat.keldysh.ru/~roman/doc/1977___Bazisnyj_Refal_i_ego_realizaciya_na_vychislitel'nyx_mashinax__CNIPIASS.pdf">Базисный РЕФАЛ и его реализация
+на вычислительных машинах (методические рекомендации)</a>.<br> Фонд алгоритмов и
+программ для ЭВМ (в отрасли "Строительство"), специальный раздел, vol. 5,
+N 40. Москва, 1977. - 258 с.
+
+<hr>
+
+Hosted on GitHub Pages
+
 <hr>
 
 ## Welcome to GitHub Pages
@@ -31,11 +45,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ponyatov/js/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
